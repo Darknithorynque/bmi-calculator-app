@@ -1,0 +1,36 @@
+.position-nav{
+
+    position: relative;
+    left: 1000px;
+}
+
+.footer{
+
+    position: fixed;
+    bottom: 0;
+
+    height: 60px;
+    width: 100%;
+
+    padding-top: 15px;
+    background-color:orange;
+}
+
+.text{
+ 
+
+    text-align: center;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#dumbell{
+    position: absolute;
+    margin-top: 25px;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 30px;
+    font-weight: 600;
+}

@@ -1,0 +1,171 @@
+
+.bmiCalculation{
+    height: 80rem;
+    width: auto;
+}
+.bmiSection{
+
+    padding: 10px;
+    position: relative;
+    margin-left: 15px;
+    background-color: grey;
+    width: 30%;
+    right: 50%;
+    left: 50%;
+    top: 160px;
+    transform: translate(-50%,-50%);
+}
+
+.textX{
+    padding-left: 10px;
+    padding-right: 22px;
+}
+
+.divs{
+
+    margin-block: 10px;
+    position: relative;
+    margin-left: 50px;
+}
+
+#textAge{
+
+    padding-right: 40px;
+}
+
+#textAge input{
+    margin-left: 10px;
+
+}
+
+.btns{
+    margin-left: 70px;
+}
+
+.calculate{
+    background-color: #4CAF50;
+    margin-left: 14px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    border-width: 1px;
+}
+
+.calculate:hover {
+    opacity: 0.7;
+}
+
+.clear{
+    margin-left: 30px;
+    background-color: #f44336;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    border-width: 1px;
+}
+.clear:hover{
+    opacity: 0.7;
+}
+.headerX{
+    background-color: rgb(53, 53, 224);
+    background-clip:  padding-box;
+    
+    text-shadow: 10px;
+    text-align: center;
+    color: #eee;
+    font-size: 23px;
+}
+
+#female{
+    margin-left: 0px;
+}
+
+#femaleRadio{
+    margin-left: 30px;
+}
+
+
+#resultSection{
+    position: relative;
+    margin-left: 25px;
+    width: 635px;
+    right: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    top: 560px;
+}
+
+.result{
+    background-color: #4CAF50;
+    width: 635px;
+}
+
+.outlineX{
+    display: inline-table;
+    position: relative;
+    width: 50px;
+    height: 320px;
+   
+
+    border-width: 3px;
+    border-radius: 30%;
+    z-index: 100;
+    width: 100px;
+    margin: 12px;
+    left: 5px;
+    top: -310px;
+
+}
+
+.outlineY{
+   
+    display: inline-table;
+    position: relative;
+    width: 50px;
+    height: 320px;
+    border-style: solid;
+    border-color: rgb(218, 12, 218);
+    border-width: 3px;
+    border-radius: 30%;
+    transition: border-width 0.6s linear;
+    z-index: 100;
+    width: 100px;
+    margin: 12px;
+    left: 5px;
+    top: -310px;
+
+}
+
+.result{
+    text-align: center;
+    color: #000000;
+    letter-spacing: 1px;
+}
+
+.bmiDscp{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-size: larger;
+    background-color:#5F9EA0;
+}
+
+#out1{
+    margin-left: 0px;
+    width: 100px;
+}
+
+#outAfter1{
+    margin-left: 0px;
+    width: 100px;
+
+
+}
+#out5{
+    margin-right: -30px;
+    width: 140px;
+}
+
+
+
+.redClass{
+
+    border: solid;
+    border-color: #f44336;
+}
