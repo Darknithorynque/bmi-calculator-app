@@ -1,6 +1,6 @@
 {
   "name": "bmi-calculator",
-  "homepage": "https://darknithorynque.github.io/bmi-calculator-app/",
+  "homepage": "https://darknithorynque.github.io/bmi-calculator-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
